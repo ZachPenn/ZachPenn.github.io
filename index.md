@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="200" src="./images/zPennington_HS_pic.JPG">
+</p>
+
+
 ## About Me
 
 Currently a postdoctoral fellow at the Icahn School of Medicine at Mount Sinai, my research is focused on uncovering how traumatic psychological experiences leave a lasting imprint on the brain.  The central aim of this work is to understand how trauma leads to devastating afflictions like PTSD and addiction, and how we can harness these insights to advance new treatments.
