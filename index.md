@@ -3,13 +3,13 @@
 </p>
 
 <p align="left">
+   
+  <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=ZT+Pennington&btnG=">
+    <img width="25" src="./images/GS_100px.png"> 
+  </a>
   
   <a href="https://github.com/ZachPenn">
     <img width="25" src="./images/GH_100px.png"> 
-  </a>
-  
-  <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=ZT+Pennington&btnG=">
-    <img width="25" src="./images/GS_100px.png"> 
   </a>
   
   <a href="https://www.linkedin.com/in/zach-pennington-3b76b321a/">
@@ -30,6 +30,9 @@ Currently a postdoctoral fellow at the Icahn School of Medicine at Mount Sinai, 
 My research employs a multi-level approach to understanding trauma.  Techniques involved include in vivo calcium imaging of neural activity, whole-brain analysis of stress responses in cleared tissue, persistent labeling of stress-reactive cells in the service of molecularly profiling and manipulation, chemogenetic/optogenetic circuit mapping, and behavioral models of neuropsychiatric dysfunction.
 
 I also devote a large amount of my spare time to creating convenient open-source tools that allow the neuroscience community to more readily adopt modern technologies.  I am lead developer of the behavior tracking software [ezTrack](https://github.com/DeniseCaiLab/ezTrack), contributor to the calcium imaging analysis software [Minian](https://github.com/denisecailab/minian), have built open-source tools for counting cells in microscopy images, and share protocols for these and other neuroscience techniques [here](https://github.com/zachpenn).  
+
+When I’m not in the lab, I love going on food adventures with my fiance, riding my bike and skateboard, going to punk rock shows, and baking bread.
+
 
 ## Publications
 
