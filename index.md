@@ -2,6 +2,26 @@
   <img width="200" src="./images/zPennington_HS_pic.JPG">
 </p>
 
+<p align="left">
+  
+  <a href="https://github.com/ZachPenn">
+    <img width="25" src="./images/GH_100px.png"> 
+  </a>
+  
+  <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=ZT+Pennington&btnG=">
+    <img width="25" src="./images/GS_100px.png"> 
+  </a>
+  
+  <a href="https://www.linkedin.com/in/zach-pennington-3b76b321a/">
+    <img width="25" src="./images/LN_100px.png">
+  </a>
+  
+  <a href="https://www.researchgate.net/profile/Zachary-Pennington">
+    <img width="25" src="./images/RG_100px.png">
+  </a> 
+  
+</p>
+
 
 ## About Me
 
