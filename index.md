@@ -31,7 +31,7 @@ My research employs a multi-level approach to understanding trauma.  Techniques 
 
 I also devote a large amount of my spare time to creating convenient open-source tools that allow the neuroscience community to more readily adopt modern technologies.  I am lead developer of the behavior tracking software [ezTrack](https://github.com/DeniseCaiLab/ezTrack), contributor to the calcium imaging analysis software [Minian](https://github.com/denisecailab/minian), have built open-source tools for counting cells in microscopy images, and share protocols for these and other neuroscience techniques [here](https://github.com/zachpenn).  
 
-When I’m not in the lab, I love going on food adventures with my fiance, riding my bike and skateboard, going to punk rock shows, and baking bread.
+When I’m not in the lab, I love going on food adventures with my fiancee, riding my bike and skateboard, going to punk rock shows, and baking bread.
 
 
 ## Publications
