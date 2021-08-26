@@ -44,7 +44,7 @@ When I’m not in the lab, I love going on food adventures with my fiancee, ridi
 * Chair of the Neuroscience Postdoctoral Association  
   Icahn School of Medicine at Mount Sinai
 
-* Founder/Organizer of Mount Sinai Anxiety, Fear and Trauma Journal Club
+* Founder/Organizer of Mount Sinai Anxiety, Fear and Trauma Journal Club  
   Icahn School of Medicine at Mount Sinai
 
 ## Publications
