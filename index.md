@@ -35,6 +35,14 @@ I also devote a large amount of my spare time to creating convenient open-source
 
 When I’m not in the lab, I love going on food adventures with my fiancee, riding my bike and skateboard, going to punk rock shows, and baking bread.
 
+## Postions
+
+* Postdoctoral Fellow in the [Cai Laboratory](http://labs.neuroscience.mssm.edu/project/cai-lab/).  Department of Neuroscience.  Icahn School of Medicine at Mount Sinai.
+
+* Chair of the Neuroscience Postdoctoral Association.   Icahn School of Medicine at Mount Sinai
+
+* Founder/Organizer of Mount Sinai Anxiety, Fear and Trauma Journal Club
+
 
 ## Publications
 
