@@ -22,8 +22,8 @@
   
 </p>
 
-Zachary.Pennington@mssm.edu
-
+Zachary.Pennington@mssm.edu  
+[My CV](./ZPennington_CV.pdf)
 
 ## About Me
 
