@@ -37,12 +37,15 @@ When I’m not in the lab, I love going on food adventures with my fiancee, ridi
 
 ## Postions
 
-* Postdoctoral Fellow in the [Cai Laboratory](http://labs.neuroscience.mssm.edu/project/cai-lab/).  Department of Neuroscience.  Icahn School of Medicine at Mount Sinai.
+* Postdoctoral Fellow in the [Cai Laboratory](http://labs.neuroscience.mssm.edu/project/cai-lab/)  
+  Department of Neuroscience,
+  Icahn School of Medicine at Mount Sinai
 
-* Chair of the Neuroscience Postdoctoral Association.   Icahn School of Medicine at Mount Sinai
+* Chair of the Neuroscience Postdoctoral Association  
+  Icahn School of Medicine at Mount Sinai
 
 * Founder/Organizer of Mount Sinai Anxiety, Fear and Trauma Journal Club
-
+  Icahn School of Medicine at Mount Sinai
 
 ## Publications
 
