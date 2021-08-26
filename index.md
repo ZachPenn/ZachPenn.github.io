@@ -35,7 +35,7 @@ I also devote a large amount of my spare time to creating convenient open-source
 
 When I’m not in the lab, I love going on food adventures with my fiancee, riding my bike and skateboard, going to punk rock shows, and baking bread.
 
-## Postions
+## Positions
 
 * Postdoctoral Fellow in the [Cai Laboratory](http://labs.neuroscience.mssm.edu/project/cai-lab/)  
   Department of Neuroscience,
