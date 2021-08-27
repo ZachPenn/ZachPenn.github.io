@@ -38,7 +38,7 @@ When I’m not in the lab, I love going on food adventures with my fiancee, ridi
 ## Professional Activities
 
 * Postdoctoral Fellow in the [Cai Laboratory](http://labs.neuroscience.mssm.edu/project/cai-lab/)  
-  Department of Neuroscience,
+  Department of Neuroscience,  
   Icahn School of Medicine at Mount Sinai
 
 * Chair of the Neuroscience Postdoctoral Association  
