@@ -4,7 +4,7 @@
 
 <p align="left">
    
-  <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=ZT+Pennington&btnG=">
+  <a href="https://scholar.google.com/citations?hl=en&user=yZ1dyEoAAAAJ">
     <img width="25" src="./images/GS_100px.png"> 
   </a>
   
