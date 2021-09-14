@@ -27,9 +27,9 @@ Zachary.Pennington@mssm.edu
 
 ## About Me
 
-Currently a postdoctoral fellow at the Icahn School of Medicine at Mount Sinai, my research is focused on uncovering how traumatic psychological experiences leave a lasting imprint on the brain.  The central aim of this work is to understand how trauma leads to devastating afflictions like PTSD and addiction, and how we can harness these insights to advance new treatments.
+A neuroscientist at the Icahn School of Medicine at Mount Sinai, my research is focused on uncovering how traumatic psychological experiences leave a lasting imprint on the brain.  The central aim of this work is to understand how trauma leads to devastating afflictions like PTSD and addiction, and how we can harness these insights to advance new treatments.
 
-I also devote a large amount of my spare time to creating convenient open-source tools that allow the neuroscience community to more readily adopt modern technologies.  I am lead developer of the behavior tracking software [ezTrack](https://github.com/DeniseCaiLab/ezTrack), contributor to the calcium imaging analysis software [Minian](https://github.com/denisecailab/minian), have built open-source tools for counting cells in microscopy images, and share protocols for these and other neuroscience techniques [here](https://github.com/zachpenn).  
+I also devote a large amount of my time to creating convenient open-source tools that allow the neuroscience community to more readily adopt modern technologies.  I am lead developer of the behavior tracking software [ezTrack](https://github.com/DeniseCaiLab/ezTrack), contributor to the calcium imaging analysis software [Minian](https://github.com/denisecailab/minian), have built open-source tools for counting cells in microscopy images, and share protocols for these and other neuroscience techniques [here](https://github.com/zachpenn).  
 
 My research employs a multi-level approach to understanding trauma.  Techniques involved include in vivo calcium imaging of neural activity, whole-brain analysis of stress responses in cleared tissue, persistent labeling of stress-reactive cells in the service of molecular profiling and manipulation, chemogenetic/optogenetic circuit mapping, and behavioral models of neuropsychiatric dysfunction.
 
@@ -37,15 +37,31 @@ When I’m not in the lab, I love going on food adventures with my fiancee, ridi
 
 ## Professional Activities and Service
 
-* Postdoctoral Fellow in the [Cai Laboratory](http://labs.neuroscience.mssm.edu/project/cai-lab/)  
-  Department of Neuroscience,  
-  Icahn School of Medicine at Mount Sinai
+* **Postdoctoral Fellow**    
+  [Cai Laboratory](http://labs.neuroscience.mssm.edu/project/cai-lab/)  
+  Department of Neuroscience  
+  Icahn School of Medicine at Mount Sinai  
+  2018-Present
 
-* Chair of the Neuroscience Postdoctoral Association  
-  Icahn School of Medicine at Mount Sinai
+* **Chair, Neuroscience Postdoctoral Association**  
+  Icahn School of Medicine at Mount Sinai  
+  2021-Present
 
-* Founder/Organizer of Mount Sinai Anxiety, Fear and Trauma Journal Club  
-  Icahn School of Medicine at Mount Sinai
+* **Founder and Organizer, Mount Sinai Anxiety Fear and Trauma Journal Club**  
+  Icahn School of Medicine at Mount Sinai  
+  2021-Present
+
+* **Instructor, Miniscope Workshop**  
+  CAJAL Advanced Neuroscience Training Programme  
+  2019
+
+* **Organizational Committee, Mount Sinai Neuroscience Seminar Series**  
+  Icahn School of Medicine at Mount Sinai  
+  2018-2021
+
+* **Mentor, Psychology Undergraduate Research Journal**  
+  UCLA  
+  2015-2017
 
 ## Publications
 
