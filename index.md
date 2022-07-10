@@ -24,6 +24,7 @@
 
 Zachary.Pennington@mssm.edu  
 [My CV](./ZPennington_CV.pdf)
+[Resources](https://github.com/ZachPenn/Resources/wiki)
 
 ## About Me
 
@@ -67,11 +68,13 @@ When I’m not in the lab, I love going on food adventures with my fiancee, ridi
 
 ### Research Reports
 
-**Pennington ZT**, Diego KS, Francisco TR, LaBanca AR, Lamsifer SI, Liobimova O, Shuman T, Cai DJ (in press).  ezTrack – A step by step by step guide to behavior tracking. *Current Protocols in Neuroscience*.
+Dong Z, Mau W, Feng Y, **Pennington ZT**, Chen L, Zaki Y, Rajan K, Shuman T, Aharoni D, Cai DJ (2022). Minian, an open-source miniscope analysis pipeline. *eLife*, 11:e70661. 
 
-Blaze J, Navickas A, Phillips HL, Heissel S, Plaza-Jennings A, Miglani A, Asgharian H, Foo M, Katanski CD, Watkins CP, **Pennington ZT**, Javidfar B, Espeso-Gil S, Rostandy B, Alwaseem H, Hahn CG, Molina H, Cai DJ, Pan T, Yao WD, Goodarzi H, Haghighi F, Akbarian S (2021). Neuronal Nsun2 deficiency produces tRNA epitranscriptomic alterations and proteomic shifts impacting synaptic signaling and behavior. *Nature Communications*, Online ahead of print.
+**Pennington ZT**, Diego KS, Francisco TR, LaBanca AR, Lamsifer SI, Liobimova O, Shuman T, Cai DJ (2021). ezTrack Ð A step by step by step guide to behavior tracking. *Current Protocols in Neuroscience*, 1(10): e255.
 
-Lictenberg NT, Sepe-Forrest L, **Pennington ZT**, Lamparelli AC, Greenfield VY, Wassum KM (2021).  The medial orbitofrontal cortex &#8594; basolateral amygdala circuit regulates the influence of reward cues on adaptive behavior and choice.  *Journal of Neuroscience*, Online ahead of print.
+Blaze J, Navickas A, Phillips HL, Heissel S, Plaza-Jennings A, Miglani A, Asgharian H, Foo M, Katanski CD, Watkins CP, **Pennington ZT**, Javidfar B, Espeso-Gil S, Rostandy B, Alwaseem H, Hahn CG, Molina H, Cai DJ, Pan T, Yao WD, Goodarzi H, Haghighi F, Akbarian S (2021). Neuronal Nsun2 deficiency produces tRNA epitranscriptomic alterations and proteomic shifts impacting synaptic signaling and behavior. *Nature Communications*, 12(1): 4913.
+
+Lichtenberg NT, Sepe-Forrest L, **Pennington ZT**, Lamparelli AC, Greenfield VY, Wassum KM (2021).  The medial orbitofrontal cortex &#8594; basolateral amygdala circuit regulates the influence of reward cues on adaptive behavior and choice.  *Journal of Neuroscience*, 41(34): 7267-7277.
 
 Rajbhandari AK, Octeau JC, Gonzalez S, **Pennington ZT**, Mohamed F, Trott J, Chavez J, Ngyuen E, Keces N, Hong WZ, Heve RL, Waschek J, Khakh BS, Fanselow MS (2021). A basomedial amygdala to intercalated cells microcircuit expressing PACAP and its receptor PAC1 regulates contextual fear. *Journal of Neuroscience*, 41(15): 3446-61.
 
