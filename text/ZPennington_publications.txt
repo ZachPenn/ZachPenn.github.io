@@ -1,14 +1,16 @@
 ### Research Reports
 
-**Pennington ZT**, Diego KS, Francisco TR, LaBanca AR, Lamsifer SI, Liobimova O, Shuman T, Cai DJ (in press).  ezTrack – A step by step by step guide to behavior tracking. *Current Protocols in Neuroscience*.
+Dong Z, Mau W, Feng Y, **Pennington ZT**, Chen L, Zaki Y, Rajan K, Shuman T, Aharoni D, Cai DJ (2022). Minian, an open-source miniscope analysis pipeline. *eLife*, 11:e70661. 
 
-Blaze J, Navickas A, Phillips HL, Heissel S, Plaza-Jennings A, Miglani A, Asgharian H, Foo M, Katanski CD, Watkins CP, **Pennington ZT**, Javidfar B, Espeso-Gil S, Rostandy B, Alwaseem H, Hahn CG, Molina H, Cai DJ, Pan T, Yao WD, Goodarzi H, Haghighi F, Akbarian S (2021). Neuronal Nsun2 deficiency produces tRNA epitranscriptomic alterations and proteomic shifts impacting synaptic signaling and behavior. *Nature Communications*, Online ahead of print.
+**Pennington ZT**, Diego KS, Francisco TR, LaBanca AR, Lamsifer SI, Liobimova O, Shuman T, Cai DJ (2021). ezTrack √ê A step by step by step guide to behavior tracking. *Current Protocols in Neuroscience*, 1(10): e255.
 
-Lictenberg NT, Sepe-Forrest L, **Pennington ZT**, Lamparelli AC, Greenfield VY, Wassum KM (2021).  The medial orbitofrontal cortex &#8594; basolateral amygdala circuit regulates the influence of reward cues on adaptive behavior and choice.  *Journal of Neuroscience*, Online ahead of print.
+Blaze J, Navickas A, Phillips HL, Heissel S, Plaza-Jennings A, Miglani A, Asgharian H, Foo M, Katanski CD, Watkins CP, **Pennington ZT**, Javidfar B, Espeso-Gil S, Rostandy B, Alwaseem H, Hahn CG, Molina H, Cai DJ, Pan T, Yao WD, Goodarzi H, Haghighi F, Akbarian S (2021). Neuronal Nsun2 deficiency produces tRNA epitranscriptomic alterations and proteomic shifts impacting synaptic signaling and behavior. *Nature Communications*, 12(1): 4913.
+
+Lichtenberg NT, Sepe-Forrest L, **Pennington ZT**, Lamparelli AC, Greenfield VY, Wassum KM (2021).  The medial orbitofrontal cortex &#8594; basolateral amygdala circuit regulates the influence of reward cues on adaptive behavior and choice.  *Journal of Neuroscience*, 41(34): 7267-7277.
 
 Rajbhandari AK, Octeau JC, Gonzalez S, **Pennington ZT**, Mohamed F, Trott J, Chavez J, Ngyuen E, Keces N, Hong WZ, Heve RL, Waschek J, Khakh BS, Fanselow MS (2021). A basomedial amygdala to intercalated cells microcircuit expressing PACAP and its receptor PAC1 regulates contextual fear. *Journal of Neuroscience*, 41(15): 3446-61.
 
-Shuman T, Aharoni D, Cai DJ, Lee CR, Chavlis S, Page-Harley L, Vetere LM, Feng Y, Yang CY, Mollinedo-Gajate I, Chen L, **Pennington ZT**, Taxidis J, Flores SE, Cheng K, Javaherian M, Kaba CC, Rao N, La-Vu M, Pandi I, Shtrahman M, Bakhurin KI, Masmanidis SC, Khakh BS, Poirazi P, Silva AJ, Golshani P (2020). Breakdown of spatial coding and neural synchronization in pilocarpine-treated epileptic mice.  *Nature Neuroscience*, 23(2): 229-238. 
+Shuman T, Aharoni D, Cai DJ, Lee CR, Chavlis S, Page-Harley L, Vetere LM, Feng Y, Yang CY, Mollinedo-Gajate I, Chen L, **Pennington ZT**, Taxidis J, Flores SE, Cheng K, Javaherian M, Kaba CC, Rao N, La-Vu M, Pandi I, Shtrahman M, Bakhurin KI, Masmanidis SC, Khakh BS, Poirazi P, Silva AJ, Golshani P (2020). Breakdown of√äspatial√äcoding√äand neural synchronization in pilocarpine-treated epileptic mice.  *Nature Neuroscience*, 23(2): 229-238. 
 
 **Pennington ZT**, Trott JM, Rajbhandari AK, Li K, Walwyn WM, Evans CJ, Fanselow MS (2020). Chronic opioid pretreatment potentiates the sensitization of fear learning by trauma. *Neuropsychopharmacology*, 45(3): 482-490.
 
@@ -29,7 +31,7 @@ Fanselow MS, **Pennington ZT** (2018).  A return to the dark ages of psychiatry 
 
 **Pennington ZT**, Fanselow MS (2018).  Indirect targeting of sub-superficial brain structures with transcranial magnetic stimulation reveals a promising way forward in the treatment of fear.  *Biological Psychiatry*, 84(2): 80-81.
 
-Fanselow MS, **Pennington ZT** (2017).  The Danger of LeDoux & Pine’s Two System Framework for Fear.  *American Journal of Psychiatry*, 174(11): 1120-1121.
+Fanselow MS, **Pennington ZT** (2017).  The Danger of LeDoux & Pine√ïs Two System Framework for Fear.  *American Journal of Psychiatry*, 174(11): 1120-1121.
 
 Jentsch JD, Ashenhurst JR, Cervantes MC, Groman SM, James AS, **Pennington ZT** (2014).  Dissecting Impulsivity and its relationship to addictions.  *Annals of the New York Academy of Sciences*,  1327(1): 1-26.
 
