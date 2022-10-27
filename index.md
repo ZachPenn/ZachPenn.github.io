@@ -105,4 +105,4 @@ Fanselow MS, **Pennington ZT** (2017).  The Danger of LeDoux & Pine’s Two Syst
 
 Jentsch JD, Ashenhurst JR, Cervantes MC, Groman SM, James AS, **Pennington ZT** (2014).  Dissecting Impulsivity and its relationship to addictions.  *Annals of the New York Academy of Sciences*,  1327(1): 1-26.
 
-Jentsch JD, **Pennington ZT** (2014).  Reward, interrupted: inhibitory control and its relevance to addictions.  *Neuropharmacology*, 76B: 479-486.
+Jentsch JD, **Pennington ZT** (2014).  Reward, interrupted: inhibitory control and its relevance to addictions.  *Neuropharmacology*, 76B: 479-486. [My CV](./2014_Jentsch_etal.pdf)  
