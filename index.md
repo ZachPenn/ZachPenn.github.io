@@ -80,7 +80,7 @@ Rajbhandari AK, Octeau JC, Gonzalez S, **Pennington ZT**, Mohamed F, Trott J, Ch
 
 Shuman T, Aharoni D, Cai DJ, Lee CR, Chavlis S, Page-Harley L, Vetere LM, Feng Y, Yang CY, Mollinedo-Gajate I, Chen L, **Pennington ZT**, Taxidis J, Flores SE, Cheng K, Javaherian M, Kaba CC, Rao N, La-Vu M, Pandi I, Shtrahman M, Bakhurin KI, Masmanidis SC, Khakh BS, Poirazi P, Silva AJ, Golshani P (2020). Breakdown of spatial coding and neural synchronization in pilocarpine-treated epileptic mice.  *Nature Neuroscience*, 23(2): 229-238. 
 
-**Pennington ZT**, Trott JM, Rajbhandari AK, Li K, Walwyn WM, Evans CJ, Fanselow MS (2020). Chronic opioid pretreatment potentiates the sensitization of fear learning by trauma. *Neuropsychopharmacology*, 45(3): 482-490.
+**Pennington ZT**, Trott JM, Rajbhandari AK, Li K, Walwyn WM, Evans CJ, Fanselow MS (2020). Chronic opioid pretreatment potentiates the sensitization of fear learning by trauma. *Neuropsychopharmacology*, 45(3): 482-490. [pdf](./2020_Pennington_Trott_etal.pdf)  
 
 **Pennington ZT**, Dong Z, Feng Y, Vetere LM, Page-Harley L, Shuman T, Cai DJ (2019). ezTrack: An open-source video analysis pipeline for the investigation of animal behavior. *Scientific Reports*, 9(1): 19979. 
 
