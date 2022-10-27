@@ -95,14 +95,14 @@ James AS, **Pennington ZT**, Tran P, Jentsch JD (2015).  Compromised NMDA/glutam
 
 ### Reviews and Commentaries
 
-**Pennington ZT**, Cai DJ (2021). Propanolol inhibits reactivation of fear memory.  *Biolological Psychiatry*, 89(12):1111-12.
+**Pennington ZT**, Cai DJ (2021). Propanolol inhibits reactivation of fear memory.  *Biolological Psychiatry*, 89(12):1111-12. [pdf](./2021_Pennington_Cai.pdf)  
 
-Fanselow MS, **Pennington ZT** (2018).  A return to the dark ages of psychiatry with a two-system framework for the study of fear.  *Behaviour Research and Therapy*, 100:24-29.
+Fanselow MS, **Pennington ZT** (2018).  A return to the dark ages of psychiatry with a two-system framework for the study of fear.  *Behaviour Research and Therapy*, 100:24-29. [pdf](./2018_Fanselow_Pennington.pdf)  
 
-**Pennington ZT**, Fanselow MS (2018).  Indirect targeting of sub-superficial brain structures with transcranial magnetic stimulation reveals a promising way forward in the treatment of fear.  *Biological Psychiatry*, 84(2): 80-81.
+**Pennington ZT**, Fanselow MS (2018).  Indirect targeting of sub-superficial brain structures with transcranial magnetic stimulation reveals a promising way forward in the treatment of fear.  *Biological Psychiatry*, 84(2): 80-81. [pdf](./2018_Pennington_Fanselow.pdf)  
 
-Fanselow MS, **Pennington ZT** (2017).  The Danger of LeDoux & Pine’s Two System Framework for Fear.  *American Journal of Psychiatry*, 174(11): 1120-1121.
+Fanselow MS, **Pennington ZT** (2017).  The Danger of LeDoux & Pine’s Two System Framework for Fear.  *American Journal of Psychiatry*, 174(11): 1120-1121. [pdf](./2017_Fanselow_Pennington.pdf)  
 
-Jentsch JD, Ashenhurst JR, Cervantes MC, Groman SM, James AS, **Pennington ZT** (2014).  Dissecting Impulsivity and its relationship to addictions.  *Annals of the New York Academy of Sciences*,  1327(1): 1-26.
+Jentsch JD, Ashenhurst JR, Cervantes MC, Groman SM, James AS, **Pennington ZT** (2014).  Dissecting Impulsivity and its relationship to addictions.  *Annals of the New York Academy of Sciences*,  1327(1): 1-26. [pdf](./2014_Jentsch_Ashenhurst_etal.pdf)  
 
-Jentsch JD, **Pennington ZT** (2014).  Reward, interrupted: inhibitory control and its relevance to addictions.  *Neuropharmacology*, 76B: 479-486. [pdf](./2014_Jentsch_etal.pdf)  
+Jentsch JD, **Pennington ZT** (2014).  Reward, interrupted: inhibitory control and its relevance to addictions.  *Neuropharmacology*, 76B: 479-486. [pdf](./2014_Jentsch_Pennington.pdf)  
