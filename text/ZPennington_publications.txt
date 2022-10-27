@@ -2,7 +2,7 @@
 
 Dong Z, Mau W, Feng Y, **Pennington ZT**, Chen L, Zaki Y, Rajan K, Shuman T, Aharoni D, Cai DJ (2022). Minian, an open-source miniscope analysis pipeline. *eLife*, 11:e70661. 
 
-**Pennington ZT**, Diego KS, Francisco TR, LaBanca AR, Lamsifer SI, Liobimova O, Shuman T, Cai DJ (2021). ezTrack Ð A step by step by step guide to behavior tracking. *Current Protocols in Neuroscience*, 1(10): e255.
+**Pennington ZT**, Diego KS, Francisco TR, LaBanca AR, Lamsifer SI, Liobimova O, Shuman T, Cai DJ (2021). ezTrack: A step by step by step guide to behavior tracking. *Current Protocols in Neuroscience*, 1(10): e255.
 
 Blaze J, Navickas A, Phillips HL, Heissel S, Plaza-Jennings A, Miglani A, Asgharian H, Foo M, Katanski CD, Watkins CP, **Pennington ZT**, Javidfar B, Espeso-Gil S, Rostandy B, Alwaseem H, Hahn CG, Molina H, Cai DJ, Pan T, Yao WD, Goodarzi H, Haghighi F, Akbarian S (2021). Neuronal Nsun2 deficiency produces tRNA epitranscriptomic alterations and proteomic shifts impacting synaptic signaling and behavior. *Nature Communications*, 12(1): 4913.
 
