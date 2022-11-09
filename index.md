@@ -76,7 +76,7 @@ Blaze J, Navickas A, Phillips HL, Heissel S, Plaza-Jennings A, Miglani A, Asghar
 
 Lichtenberg NT, Sepe-Forrest L, **Pennington ZT**, Lamparelli AC, Greenfield VY, Wassum KM (2021).  The medial orbitofrontal cortex &#8594; basolateral amygdala circuit regulates the influence of reward cues on adaptive behavior and choice.  *Journal of Neuroscience*, 41(34): 7267-7277. [pdf](./2021_Lichtenberg_SepeForrest_Pennington_etal.pdf)  
 
-Rajbhandari AK, Octeau JC, Gonzalez S, **Pennington ZT**, Mohamed F, Trott J, Chavez J, Ngyuen E, Keces N, Hong WZ, Heve RL, Waschek J, Khakh BS, Fanselow MS (2021). A basomedial amygdala to intercalated cells microcircuit expressing PACAP and its receptor PAC1 regulates contextual fear. *Journal of Neuroscience*, 41(15): 3446-61. [pdf](./2021_Rajbhandari_Octeau_Gonzalez_etal.pdf)  
+Rajbhandari AK, Octeau JC, Gonzalez S, **Pennington ZT**, Mohamed F, Trott J, Chavez J, Ngyuen E, Keces N, Hong WZ, Heve RL, Waschek J, Khakh BS, Fanselow MS (2021). A basomedial amygdala to intercalated cells microcircuit expressing PACAP and its receptor PAC1 regulates contextual fear. *Journal of Neuroscience*, 41(15): 3446-61. [pdf](./2021_Rajbhandari_Octeau_etal.pdf)  
 
 Shuman T, Aharoni D, Cai DJ, Lee CR, Chavlis S, Page-Harley L, Vetere LM, Feng Y, Yang CY, Mollinedo-Gajate I, Chen L, **Pennington ZT**, Taxidis J, Flores SE, Cheng K, Javaherian M, Kaba CC, Rao N, La-Vu M, Pandi I, Shtrahman M, Bakhurin KI, Masmanidis SC, Khakh BS, Poirazi P, Silva AJ, Golshani P (2020). Breakdown of spatial coding and neural synchronization in pilocarpine-treated epileptic mice.  *Nature Neuroscience*, 23(2): 229-238. [pdf](./2020_Shuman_Aharoni_Cai_etal.pdf)  
 
