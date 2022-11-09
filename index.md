@@ -89,7 +89,7 @@ Kosarussavadi S\*, **Pennington ZT**\*, Covel C, Schlinger BA (2017).   Across s
 
 **Pennington ZT**, Anderson AS, Fanselow MS (2017).  The ventromedial prefrontal cortex in a model of traumatic stress: Fear inhibition or contextual processing?  *Learning & Memory*, 24(9): 400-406. [pdf](./2017_Pennington_Anderson_Fanselow.pdf)  
 
-Lichtenberg NT, **Pennington ZT**, Greenfield VY, Wassum KW (2017).  Basolateral amygdala to orbitofrontal cortex projections enable cue-triggered reward expectations.  *Journal of Neuroscience*, 37(35): 8374-8384. [pdf](./2017_Lichtenberg_Pennington_Greenfield_etal.pdf)  
+Lichtenberg NT, **Pennington ZT**, Holley SM, Greenfield VY, Cepeda C, Levine MS, Wassum KM (2017).  Basolateral amygdala to orbitofrontal cortex projections enable cue-triggered reward expectations.  *Journal of Neuroscience*, 37(35): 8374-8384. [pdf](./2017_Lichtenberg_Pennington_Holley_etal.pdf)  
 
 James AS, **Pennington ZT**, Tran P, Jentsch JD (2015).  Compromised NMDA/glutamate receptor expression in dopaminergic neurons impairs instrumental learning, but not Pavlovian goal-tracking or sign-tracking.  *eNeuro*,  2(3): e0040-14. [pdf](./2015_James_Pennington_Tran_etal.pdf)  
 
