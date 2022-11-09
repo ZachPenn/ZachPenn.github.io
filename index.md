@@ -84,7 +84,7 @@ Shuman T, Aharoni D, Cai DJ, Lee CR, Chavlis S, Page-Harley L, Vetere LM, Feng Y
 
 **Pennington ZT**, Dong Z, Feng Y, Vetere LM, Page-Harley L, Shuman T, Cai DJ (2019). ezTrack: An open-source video analysis pipeline for the investigation of animal behavior. *Scientific Reports*, 9(1): 19979. [pdf](./2019_Pennington_Dong_Feng_etal.pdf)  
 
-Kosarussavadi S\*, **Pennington ZT**\*, Covel C, Schlinger BA (2017).   Across sex and age: Learning and memory and patterns of avian hippocampal gene expression.  *Behavioral Neuroscience*, 131(6): 483-491.  [pdf](./2017_Kosarussavadi_Pennington_Covel_etal.pdf)  
+Kosarussavadi S\*, **Pennington ZT**\*, Covel C, Schlinger BA (2017).   Across sex and age: Learning and memory and patterns of avian hippocampal gene expression.  *Behavioral Neuroscience*, 131(6): 483-491.  [pdf](./2017_Kosarussavadi_Pennington_Covell_etal.pdf)  
 \*Equal contribution
 
 **Pennington ZT**, Anderson AS, Fanselow MS (2017).  The ventromedial prefrontal cortex in a model of traumatic stress: Fear inhibition or contextual processing?  *Learning & Memory*, 24(9): 400-406. [pdf](./2017_Pennington_Anderson_Fanselow.pdf)  
