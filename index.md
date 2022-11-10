@@ -44,13 +44,13 @@ When I’m not in the lab, I love going on food adventures with my fiancee, ridi
   Icahn School of Medicine at Mount Sinai  
   2018-Present
 
-* **Chair, Neuroscience Postdoctoral Association**  
-  Icahn School of Medicine at Mount Sinai  
-  2021-Present
-
 * **Founder and Organizer, Mount Sinai Anxiety Fear and Trauma Journal Club**  
   Icahn School of Medicine at Mount Sinai  
   2021-Present
+  
+* **Chair, Neuroscience Postdoctoral Association**  
+  Icahn School of Medicine at Mount Sinai  
+  2021-2022
 
 * **Instructor, Miniscope Workshop**  
   CAJAL Advanced Neuroscience Training Programme  
