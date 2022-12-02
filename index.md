@@ -34,7 +34,7 @@ I also devote a large amount of my time to creating convenient open-source tools
 
 My research employs a multi-level approach to understanding trauma.  Techniques involved include in vivo calcium imaging of neural activity, whole-brain analysis of stress responses in cleared tissue, persistent labeling of stress-reactive cells in the service of molecular profiling and manipulation, chemogenetic/optogenetic circuit mapping, and behavioral models of neuropsychiatric dysfunction.
 
-When I’m not in the lab, I love going on food adventures with my fiancee, riding my bike and skateboard, going to punk rock shows, and baking bread.
+When I’m not in the lab, I love going on food adventures with my wife, riding my bike and skateboard, going to punk rock shows, and baking bread.
 
 ## Professional Activities and Service
 
