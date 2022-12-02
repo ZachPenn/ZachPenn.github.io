@@ -38,6 +38,25 @@ When I’m not in the lab, I love going on food adventures with my wife, riding 
 
 ## Professional Activities and Service
 
+* 2023-2028 &nbsp; &nbsp; K99 Young Investigator Award 
+* 2023-2025 &nbsp; &nbsp; Behavior & Brain Research Foundation, Young Investigator Award
+* 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; McKnight Foundation Doupe Fellow
+* 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Mount Sinai Neuroscience Outstanding Citizen Award
+* 2018-2019 &nbsp; &nbsp;&nbsp; NIDA T32 Postdoc Fellowship: Sinai Interdisciplinary Training in Drug Abuse 
+* 2017-2018 &nbsp; &nbsp;&nbsp; UCLA Dissertation Year Fellowship
+* 2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; UCLA Teaching Practicum Program Fellow
+* 2016 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; UCLA Teaching Practicum Program Fellow
+* 2015-2017 &nbsp; &nbsp;&nbsp; NIMH F31 Fellowship
+* 2015 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; UCLA Brain Research Institute, Society for Neuroscience Travel Award  
+* 2012-2014 &nbsp; &nbsp;&nbsp; NIDA T32 Predoctoral Fellowship: UCLA Translational Neuroscience of Drug Abuse 
+* 2012 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Travel Award to attend the BBC Translation Addiction conference 
+* 2012 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; UCLA Graduate Summer Research Mentorship Fellowship 
+* 2008 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Opal Jones Trust Scholarship in Psychology.  Pasadena City College 
+* 2008 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Valedictorian of Pasadena City College
+
+
+## Professional Activities and Service
+
 * **Postdoctoral Fellow**    
   [Cai Laboratory](http://labs.neuroscience.mssm.edu/project/cai-lab/)  
   Department of Neuroscience  
