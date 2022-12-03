@@ -36,23 +36,23 @@ My research employs a multi-level approach to understanding trauma.  Techniques 
 
 When I’m not in the lab, I love going on food adventures with my wife, riding my bike and skateboard, going to punk rock shows, and baking bread.
 
-## Professional Activities and Service
+## Awards and Honors
 
-* 2023-2028 &nbsp; &nbsp; K99 Young Investigator Award 
-* 2023-2025 &nbsp; &nbsp; Behavior & Brain Research Foundation, Young Investigator Award
-* 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; McKnight Foundation Doupe Fellow
-* 2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Mount Sinai Neuroscience Outstanding Citizen Award
-* 2018-2019 &nbsp; &nbsp;&nbsp; NIDA T32 Postdoc Fellowship
-* 2017-2018 &nbsp; &nbsp;&nbsp; UCLA Dissertation Year Fellowship
-* 2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; UCLA Teaching Practicum Program Fellow
-* 2016 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; UCLA Teaching Practicum Program Fellow
-* 2015-2017 &nbsp; &nbsp;&nbsp; NIMH F31 Fellowship
-* 2015 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; UCLA Brain Research Institute, Society for Neuroscience Travel Award  
-* 2012-2014 &nbsp; &nbsp;&nbsp; NIDA T32 Predoctoral Fellowship
-* 2012 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Travel Award to attend the BBC Translation Addiction conference 
-* 2012 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; UCLA Graduate Summer Research Mentorship Fellowship 
-* 2008 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Opal Jones Trust Scholarship in Psychology.  Pasadena City College 
-* 2008 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Valedictorian of Pasadena City College
+* NIMH K99/R00 Transition to Independence Awar (2023-2028)
+* Behavior & Brain Research Foundation, Young Investigator Award (2023-2025)
+* McKnight Foundation Doupe Fellow (2022)
+* Mount Sinai Neuroscience Outstanding Citizen Award (2022)
+* NIDA T32 Postdoctoral Fellowship (2018-2019)
+* UCLA Dissertation Year Fellowship (2017-2018)
+* UCLA Teaching Practicum Program Fellow (2017)
+* UCLA Teaching Practicum Program Fellow (2016)
+* NIMH F31 Fellowship (2015-2017)
+* UCLA Brain Research Institute, Society for Neuroscience Travel Award (2015)
+* NIDA T32 Predoctoral Fellowship (2012-2014)
+* Travel Award to attend the BBC Translation Addiction conference (2012)
+* UCLA Graduate Summer Research Mentorship Fellowship (2012)
+* Opal Jones Trust Scholarship in Psychology.  Pasadena City College (2008)
+* Valedictorian of Pasadena City College (2008)
 
 
 ## Professional Activities and Service
