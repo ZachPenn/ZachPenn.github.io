@@ -57,7 +57,7 @@ When I’m not in the lab, I love going on food adventures with my wife, riding 
 
 ## Professional Activities and Service
 
-* **Postdoctoral Fellow**    
+* **K99 Research Fellow**    
   [Cai Laboratory](http://labs.neuroscience.mssm.edu/project/cai-lab/)  
   Department of Neuroscience  
   Icahn School of Medicine at Mount Sinai  
