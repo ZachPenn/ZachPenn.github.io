@@ -89,6 +89,8 @@ When I’m not in the lab, I love going on food adventures with my wife, riding 
 
 **Pennington ZT**, LaBanca A, Sompolpong P, Christenson Wick Z, Feng Y, Dong Z, Francisco TR, Chen L, Fulton SL, Maze I, Shuman T, Cai DJ (2023). Dissociable contributions of the amygdala and ventral hippocampus to stress-induced changes in defensive behavior. BioRxiv, 2023.02.27.530077. [[link]](https://www.biorxiv.org/content/10.1101/2023.02.27.530077v2)
 
+Zaki Y, **Pennington ZT**, Morales-Rodriguez D, Francisco TR, LaBanca AR, Dong Z, Carrillo Segura S, Silva AJ, Shuman T, Fenton A, Rajan K, Cai DJ (2023). Aversive experience drives offline ensemble reactivation to link memories across days. BioRxiv, 2023.03.13.532469. [[link]](https://www.biorxiv.org/content/10.1101/2023.03.13.532469v1)
+
 Dong Z, Mau W, Feng Y, **Pennington ZT**, Chen L, Zaki Y, Rajan K, Shuman T, Aharoni D, Cai DJ (2022). Minian, an open-source miniscope analysis pipeline. *eLife*, 11:e70661. [[pdf]](./2022_Dong_Mau_Feng_etal.pdf)  
 
 **Pennington ZT**, Diego KS, Francisco TR, LaBanca AR, Lamsifer SI, Liobimova O, Shuman T, Cai DJ (2021). ezTrack Ð A step by step by step guide to behavior tracking. *Current Protocols in Neuroscience*, 1(10): e255. [[pdf]](./2021_Pennington_Diego_Francisco_etal.pdf)  
