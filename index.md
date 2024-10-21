@@ -89,13 +89,13 @@ When I’m not in the lab, I love going on food adventures with my wife, riding 
 
 ### Research Reports
 
-**Pennington ZT**, LaBanca A, Sompolpong P, Christenson Wick Z, Feng Y, Dong Z, Francisco TR, Chen L, Fulton SL, Maze I, Shuman T, Cai DJ (in press). Dissociable contributions of the amygdala and ventral hippocampus to stress-induced changes in defensive behavior. *Cell Reports*. [[link]](https://www.biorxiv.org/content/10.1101/2023.02.27.530077v2)
+**Pennington ZT**, LaBanca A, Sompolpong P, Christenson Wick Z, Feng Y, Dong Z, Francisco TR, Chen L, Fulton SL, Maze I, Shuman T, Cai DJ (in press). Dissociable contributions of the amygdala and ventral hippocampus to stress-induced changes in defensive behavior. *Cell Reports*. [[pdf]](./publications/2024_Pennington_LaBanca_Sompolpong_etal.pdf)
 
 Zaki Y, **Pennington ZT**, Morales-Rodriguez D, Francisco TR, LaBanca AR, Dong Z, Carrillo Segura S, Silva AJ, Shuman T, Fenton A, Rajan K, Cai DJ (in press). Aversive experience drives offline ensemble reactivation to link memories across days. *Nature*. [[link]](https://www.biorxiv.org/content/10.1101/2023.03.13.532469v1)
 
 Feng Y, Diego KS, Dong Z, Christenson Wick Z, Page-Harley L, Page-Harley, V, Schnipper J, Lamsifer SI, **Pennington ZT**, Vetere LM, Philipsberg PA, Soler I, Jurkowski A, Rosado CJ, Khan NN, Cai DJ,  Shuman, T (in press).  Distinct changes to hippocampal and medial entorhinal circuits emerge across the progression of cognitive deficits in epilepsy. *Cell Reports*. [[link]](https://www.biorxiv.org/content/10.1101/2024.03.12.584697v1)
 
-Dong Z, Feng Y, Diego K, Baggettaa A, Sweis BM, **Pennington ZT**, Lamsifer SI, Zaki Y, Sangiuliano F, Philipsberg PA, Morales-Rodriguez, Kircher D, Slesinger P, Shuman T, Aharoni D, Cai CJ (2024). Simultaneous dual-color calcium imaging in freely-behaving mice. *BioRxiv*, 2024.07.03.601770. [[link]] (https://www.biorxiv.org/content/10.1101/2024.07.03.601770v1)
+Dong Z, Feng Y, Diego K, Baggettaa A, Sweis BM, **Pennington ZT**, Lamsifer SI, Zaki Y, Sangiuliano F, Philipsberg PA, Morales-Rodriguez, Kircher D, Slesinger P, Shuman T, Aharoni D, Cai CJ (2024). Simultaneous dual-color calcium imaging in freely-behaving mice. *BioRxiv*, 2024.07.03.601770. [[link]](https://www.biorxiv.org/content/10.1101/2024.07.03.601770v1)
 
 Dong Z, Mau W, Feng Y, **Pennington ZT**, Chen L, Zaki Y, Rajan K, Shuman T, Aharoni D, Cai DJ (2022). Minian, an open-source miniscope analysis pipeline. *eLife*, 11:e70661. [[pdf]](./publications/2022_Dong_Mau_Feng_etal.pdf)  
 
