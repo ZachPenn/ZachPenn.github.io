@@ -89,6 +89,8 @@ When I’m not in the lab, I love going on food adventures with my wife, riding 
 
 ### Research Reports
 
+**Pennington ZT**, LaBanca AR, Abdel-Raheim SD, Bacon ME, Mahmoud, Sompolpong P, Baggetta AM, Zaki Y, Ko b, Dong Z, Smith ACW, Kenny PJ, Cai DJ (2024).  An anterior hypothalamic circuit gates stress vulnerability.  BioRxiv, 2024.10.28.620614v1.  [[link]](https://www.biorxiv.org/content/10.1101/2024.10.28.620614v1)
+
 **Pennington ZT**, LaBanca A, Sompolpong P, Christenson Wick Z, Feng Y, Dong Z, Francisco TR, Chen L, Fulton SL, Maze I, Shuman T, Cai DJ (in press). Dissociable contributions of the amygdala and ventral hippocampus to stress-induced changes in defensive behavior. *Cell Reports*. [[pdf]](./publications/2024_Pennington_LaBanca_Sompolpong_etal.pdf)
 
 Zaki Y, **Pennington ZT**, Morales-Rodriguez D, Francisco TR, LaBanca AR, Dong Z, Carrillo Segura S, Silva AJ, Shuman T, Fenton A, Rajan K, Cai DJ (in press). Aversive experience drives offline ensemble reactivation to link memories across days. *Nature*. [[link]](https://www.biorxiv.org/content/10.1101/2023.03.13.532469v1)
