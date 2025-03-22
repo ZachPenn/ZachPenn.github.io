@@ -91,13 +91,15 @@ When I’m not in the lab, I love going on food adventures with my wife, riding 
 
 **Pennington ZT**, LaBanca AR, Abdel-Raheim SD, Bacon ME, Mahmoud, Sompolpong P, Baggetta AM, Zaki Y, Ko b, Dong Z, Smith ACW, Kenny PJ, Cai DJ (2024).  An anterior hypothalamic circuit gates stress vulnerability.  BioRxiv, 2024.10.28.620614v1.  [[link]](https://www.biorxiv.org/content/10.1101/2024.10.28.620614v1)
 
+Dong Z, Feng Y, Diego K, Baggettaa A, Sweis BM, **Pennington ZT**, Lamsifer SI, Zaki Y, Sangiuliano F, Philipsberg PA, Morales-Rodriguez, Kircher D, Slesinger P, Shuman T, Aharoni D, Cai CJ (2024). Simultaneous dual-color calcium imaging in freely-behaving mice. BioRxiv, 2024.07.03.601770. [[link]](https://www.biorxiv.org/content/10.1101/2024.07.03.601770v1)
+
+Feng Y, Diego KS, Dong Z, Christenson Wick Z, Page-Harley L, Page-Harley, V, Schnipper J, Lamsifer SI, **Pennington ZT**, Vetere LM, Philipsberg PA, Soler I, Jurkowski A, Rosado CJ, Khan NN, Cai DJ, Shuman T (2025). Distinct changes to hippocampal and medial entorhinal circuits emerge across the progression of cognitive deficits in epilepsy. Cell Reports, 44(2) 115131. doi: 10.1016/j.celrep.2024.115131. PMID: 39847482.  [[pdf]](./publications/2025_Feng_Diego_Dong_etal.pdf)
+
+Sun WW, Goldflam K, **Pennington ZT**, Derks L, Coates WC, Nashu MA, Hossin T, Clark A, Tsyrulnik A, Linden JA. Quick to connect: a comparison of virtual and in-person speed mentoring for emergency medicine medical students, residents by faculty at a national conference. International Journal of Emergency Medicine, 18(1): 42. doi: 10.1186/s12245-025-00860-0. PMID: 40033204.  [[pdf]](./publications/2025_Sun_Goldflam_Pennington_etal.pdf)
+
 **Pennington ZT**, LaBanca AR, Sompolpong P, Abdel-Raheim SD, Ko B, Christenson Wick Z, Feng Y, Dong Z, Francisco TR, Bacon ME, Chen L, Fulton SL, Maze I, Shuman T, Cai DJ (2024). Dissociable contributions of the amygdala and ventral hippocampus to stress-induced changes in defensive behavior. Cell Reports, 43(11): 114871. PMID: 39427320. [[pdf]](./publications/2024_Pennington_LaBanca_Sompolpong_etal.pdf)
 
-Zaki Y, **Pennington ZT**, Morales-Rodriguez D, Bacon ME, Ko B, Francisco TR, LaBanca AR, Sompolpong P, Dong Z, Lamsifer S, Chen HT, Carrillo Segura S, Christenson Wick Z, Silva AJ, Rajan K, van der Meer M, Fenton A, Shuman T, Cai DJ (2024). Offline ensemble co-reactivation links memories across days. Nature. PMID: 39506117. [[link]](https://doi.org/10.1038/s41586-024-08168-4)
-
-Feng Y, Diego KS, Dong Z, Christenson Wick Z, Page-Harley L, Page-Harley, V, Schnipper J, Lamsifer SI, **Pennington ZT**, Vetere LM, Philipsberg PA, Soler I, Jurkowski A, Rosado CJ, Khan NN, Cai DJ,  Shuman, T (in press).  Distinct changes to hippocampal and medial entorhinal circuits emerge across the progression of cognitive deficits in epilepsy. Cell Reports. [[link]](https://www.biorxiv.org/content/10.1101/2024.03.12.584697v1)
-
-Dong Z, Feng Y, Diego K, Baggettaa A, Sweis BM, **Pennington ZT**, Lamsifer SI, Zaki Y, Sangiuliano F, Philipsberg PA, Morales-Rodriguez, Kircher D, Slesinger P, Shuman T, Aharoni D, Cai CJ (2024). Simultaneous dual-color calcium imaging in freely-behaving mice. BioRxiv, 2024.07.03.601770. [[link]](https://www.biorxiv.org/content/10.1101/2024.07.03.601770v1)
+Zaki Y, **Pennington ZT**, Morales-Rodriguez D, Bacon ME, Ko B, Francisco TR, LaBanca AR, Sompolpong P, Dong Z, Lamsifer S, Chen HT, Carrillo Segura S, Christenson Wick Z, Silva AJ, Rajan K, van der Meer M, Fenton A, Shuman T, Cai DJ (2024). Offline ensemble co-reactivation links memories across days. Nature. PMID: 39506117. [[pdf]](./publications/2025_Zaki_Pennington_etal.pdf)
 
 Dong Z, Mau W, Feng Y, **Pennington ZT**, Chen L, Zaki Y, Rajan K, Shuman T, Aharoni D, Cai DJ (2022). Minian, an open-source miniscope analysis pipeline. eLife: 11: e70661. PMID: 35642786. [[pdf]](./publications/2022_Dong_Mau_Feng_etal.pdf)  
 
