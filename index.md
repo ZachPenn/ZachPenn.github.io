@@ -99,7 +99,7 @@ Sun WW, Goldflam K, **Pennington ZT**, Derks L, Coates WC, Nashu MA, Hossin T, C
 
 **Pennington ZT**, LaBanca AR, Sompolpong P, Abdel-Raheim SD, Ko B, Christenson Wick Z, Feng Y, Dong Z, Francisco TR, Bacon ME, Chen L, Fulton SL, Maze I, Shuman T, Cai DJ (2024). Dissociable contributions of the amygdala and ventral hippocampus to stress-induced changes in defensive behavior. Cell Reports, 43(11): 114871. PMID: 39427320. [[pdf]](./publications/2024_Pennington_LaBanca_Sompolpong_etal.pdf)
 
-Zaki Y, **Pennington ZT**, Morales-Rodriguez D, Bacon ME, Ko B, Francisco TR, LaBanca AR, Sompolpong P, Dong Z, Lamsifer S, Chen HT, Carrillo Segura S, Christenson Wick Z, Silva AJ, Rajan K, van der Meer M, Fenton A, Shuman T, Cai DJ (2024). Offline ensemble co-reactivation links memories across days. Nature. PMID: 39506117. [[pdf]](./publications/2025_Zaki_Pennington_etal.pdf)
+Zaki Y, **Pennington ZT**, Morales-Rodriguez D, Bacon ME, Ko B, Francisco TR, LaBanca AR, Sompolpong P, Dong Z, Lamsifer S, Chen HT, Carrillo Segura S, Christenson Wick Z, Silva AJ, Rajan K, van der Meer M, Fenton A, Shuman T, Cai DJ (2024). Offline ensemble co-reactivation links memories across days. Nature. PMID: 39506117. [[pdf]](./publications/2024_Zaki_Pennington_etal.pdf)
 
 Dong Z, Mau W, Feng Y, **Pennington ZT**, Chen L, Zaki Y, Rajan K, Shuman T, Aharoni D, Cai DJ (2022). Minian, an open-source miniscope analysis pipeline. eLife: 11: e70661. PMID: 35642786. [[pdf]](./publications/2022_Dong_Mau_Feng_etal.pdf)  
 
