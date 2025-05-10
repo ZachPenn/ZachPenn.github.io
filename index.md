@@ -23,7 +23,7 @@
 </p>
 
 Zachary.Pennington@mssm.edu  
-[CV](./ZPennington_CV.pdf) / [Resume](./ZPennington_Resume.pdf)  
+[CV](./ZPennington_CV.pdf) 
 [Resources](https://github.com/ZachPenn/Resources/wiki)
 
 ## About Me
