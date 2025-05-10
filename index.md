@@ -28,9 +28,9 @@ Zachary.Pennington@mssm.edu
 
 ## About Me
 
-A neuroscientist at the Icahn School of Medicine at Mount Sinai, my research is focused on uncovering how traumatic psychological experiences leave a lasting imprint on the brain.  The central aim of this work is to understand how trauma leads to devastating afflictions like PTSD and addiction, and how we can harness these insights to advance new treatments.
+A neuroscientist at the Icahn School of Medicine at Mount Sinai, my research is focused on uncovering how stressful experiences leave a lasting imprint on the brain.  The central aim of this work is to understand how stress can lead to devastating afflictions like PTSD and addiction, and how we can harness these insights to advance new treatments.
 
-My research employs a multi-level approach to understanding trauma.  Techniques include in vivo calcium imaging of neural activity, whole-brain analysis of cleared tissue, persistent labeling of stress-reactive cells in the service of molecular profiling and manipulation, chemogenetic/optogenetic circuit mapping, and behavioral models of neuropsychiatric dysfunction.
+My research employs a multi-level approach to understanding stress.  Techniques include in vivo calcium imaging of neural activity, whole-brain analysis of cleared tissue, persistent labeling of stress-reactive cells in the service of molecular profiling and manipulation, chemogenetic/optogenetic circuit mapping, and behavioral models of neuropsychiatric dysfunction.
 
 I am also devoted to creating convenient open-source tools that allow the neuroscience community to more readily adopt modern technologies.  I am lead developer of the behavior tracking software [ezTrack](https://github.com/DeniseCaiLab/ezTrack), contributor to the calcium imaging analysis software [Minian](https://github.com/denisecailab/minian), have built open-source tools for counting cells in microscopy images, and share protocols for these and other neuroscience techniques [here](https://github.com/ZachPenn/Resources/wiki).  
 
@@ -41,6 +41,9 @@ When I’m not in the lab, I love going on food adventures with my wife, riding 
 * NIMH K99/R00 Transition to Independence Award (2023-2028)
 * Behavior & Brain Research Foundation, Young Investigator Award (2023-2025)
 * Postdoc Innovator Award, Mount Sinai (2024-2025)
+* Best Postdoc Talk, Mount Sinai Neuroscience Retreat (2025)
+* Behavior Brain Research Foundation Freedman Prize Honorable Mention (2025)
+* Stress Neurobiology Travel Award (2024)
 * ACNP Travel Award (2024)
 * McKnight Foundation Doupe Fellow (2022)
 * Mount Sinai Neuroscience Outstanding Citizen Award (2022)
@@ -67,7 +70,7 @@ When I’m not in the lab, I love going on food adventures with my wife, riding 
 
 * **Founder and Organizer, Mount Sinai Anxiety Fear and Trauma Journal Club**  
   Icahn School of Medicine at Mount Sinai  
-  2021-Present
+  2021-2024
   
 * **Chair, Neuroscience Postdoctoral Association**  
   Icahn School of Medicine at Mount Sinai  
@@ -91,7 +94,7 @@ When I’m not in the lab, I love going on food adventures with my wife, riding 
 
 **Pennington ZT**, LaBanca AR, Abdel-Raheim SD, Bacon ME, Mahmoud, Sompolpong P, Baggetta AM, Zaki Y, Ko b, Dong Z, Smith ACW, Kenny PJ, Cai DJ (2024).  An anterior hypothalamic circuit gates stress vulnerability.  BioRxiv, 2024.10.28.620614v1.  [[link]](https://www.biorxiv.org/content/10.1101/2024.10.28.620614v1)
 
-Dong Z, Feng Y, Diego K, Baggettaa A, Sweis BM, **Pennington ZT**, Lamsifer SI, Zaki Y, Sangiuliano F, Philipsberg PA, Morales-Rodriguez, Kircher D, Slesinger P, Shuman T, Aharoni D, Cai CJ (2024). Simultaneous dual-color calcium imaging in freely-behaving mice. BioRxiv, 2024.07.03.601770. [[link]](https://www.biorxiv.org/content/10.1101/2024.07.03.601770v1)
+Dong Z, Feng Y, Diego K, Baggettaa A, Sweis BM, **Pennington ZT**, Lamsifer SI, Zaki Y, Sangiuliano F, Philipsberg PA, Morales-Rodriguez, Kircher D, Slesinger P, Shuman T, Aharoni D, Cai CJ (In Press). Simultaneous dual-color calcium imaging in freely-behaving mice. Science Advances. [[link]](https://www.biorxiv.org/content/10.1101/2024.07.03.601770v1)
 
 Feng Y, Diego KS, Dong Z, Christenson Wick Z, Page-Harley L, Page-Harley, V, Schnipper J, Lamsifer SI, **Pennington ZT**, Vetere LM, Philipsberg PA, Soler I, Jurkowski A, Rosado CJ, Khan NN, Cai DJ, Shuman T (2025). Distinct changes to hippocampal and medial entorhinal circuits emerge across the progression of cognitive deficits in epilepsy. Cell Reports, 44(2) 115131. doi: 10.1016/j.celrep.2024.115131. PMID: 39847482.  [[pdf]](./publications/2025_Feng_Diego_Dong_etal.pdf)
 
